@@ -1,4 +1,4 @@
-> A curated list of awesome things usefull for a developer building a company; aka the [Jef digital](https://www.jef.digital) DNA.
+> A curated list of awesome things usefull for a developer small company; aka the [Jef digital](https://www.jef.digital) DNA.
 
 ## Mindset
 
