@@ -4,6 +4,11 @@
 
 - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 
+## Guidelines
+
+- [About changelog](http://keepachangelog.com)
+- [Semantic versionning](http://semver.org/)
+
 ## Development toolbox
 
 - [ag, the silver searcher](https://github.com/ggreer/the_silver_searcher)
