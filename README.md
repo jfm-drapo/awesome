@@ -22,3 +22,7 @@
 
 - [ag, the silver searcher](https://github.com/ggreer/the_silver_searcher)
 - [jq, lightweight and flexible command-line JSON processor](https://github.com/stedolan/jq)
+
+## Tests
+
+- [Where automated testing should fit in your strategy](http://lifeimitatescode.com/automated-testing-strategy)
