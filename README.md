@@ -16,7 +16,7 @@
 
 ## Git
 
-- [Gitflow explaination (fr)](https://www.synbioz.com/blog/git-adopter-un-modele-de-versionnement-efficace)
+- [Gitflow explained (fr)](https://www.synbioz.com/blog/git-adopter-un-modele-de-versionnement-efficace)
 
 ## Development tools
 
