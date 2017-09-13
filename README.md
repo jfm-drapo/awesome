@@ -3,6 +3,7 @@
 ## Mindset
 
 - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+- [Artisan développeur (fr)](http://gb-prod.fr/2016/06/12/artisan-developpeur.html)
 
 ## Guidelines
 
