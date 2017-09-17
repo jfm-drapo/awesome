@@ -17,6 +17,7 @@
 ## Git
 
 - [Gitflow explained (fr)](https://www.synbioz.com/blog/git-adopter-un-modele-de-versionnement-efficace)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ## Development tools
 
