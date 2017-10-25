@@ -23,6 +23,7 @@
 
 - [ag, the silver searcher](https://github.com/ggreer/the_silver_searcher)
 - [jq, lightweight and flexible command-line JSON processor](https://github.com/stedolan/jq)
+- [caddy, Fast, cross-platform HTTP/2 web server with automatic HTTPS](https://github.com/mholt/caddy)
 
 ## Tests
 
