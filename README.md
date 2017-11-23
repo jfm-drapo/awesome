@@ -5,7 +5,7 @@
 - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 - [Artisan développeur (fr)](http://gb-prod.fr/2016/06/12/artisan-developpeur.html)
 
-## productivity
+## Productivity
 
 - [Scott Hanselman's complete list](http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx)
 
@@ -28,6 +28,10 @@
 - [git-ftp, Uses Git to upload only changed files to FTP servers](https://github.com/git-ftp/git-ftp)
 - [git-standup, Recall what you did on the last working day](https://github.com/kamranahmedse/git-standup)
 
-## Tests
+## Testing
 
 - [Where automated testing should fit in your strategy](http://lifeimitatescode.com/automated-testing-strategy)
+
+## Books
+
+- [Practices of an Agile Developer](https://pragprog.com/book/pad/practices-of-an-agile-developer)
