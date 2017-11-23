@@ -18,6 +18,7 @@
 
 - [Gitflow explained (fr)](https://www.synbioz.com/blog/git-adopter-un-modele-de-versionnement-efficace)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Atlassian way to resolve merge conflict](https://confluence.atlassian.com/bitbucket/resolve-merge-conflicts-704414003.html)
 
 ## Development tools
 
