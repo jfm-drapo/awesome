@@ -29,6 +29,7 @@
 - [git-ftp, Uses Git to upload only changed files to FTP servers](https://github.com/git-ftp/git-ftp)
 - [git-standup, Recall what you did on the last working day](https://github.com/kamranahmedse/git-standup)
 - [tig, Text-mode interface for git](https://github.com/jonas/tig)
+- [Git utilities -- repo summary, repl, changelog population, author commit percentages and more](https://github.com/tj/git-extras)
 
 ## Testing
 
