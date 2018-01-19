@@ -9,6 +9,7 @@
 
 - [Scott Hanselman's complete list](http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx)
 - [Why do programmers wear headphones?](https://dev.to/andrewlucker/why-do-programmers-wear-headphones-for-the-same-reason-that-you-cantjuggle)
+- [YAGNI](http://wiki.c2.com/?YouArentGonnaNeedIt)
 
 ## Guidelines
 
