@@ -26,6 +26,7 @@
 
 - [ag, the silver searcher](https://github.com/ggreer/the_silver_searcher)
 - [jq, lightweight and flexible command-line JSON processor](https://github.com/stedolan/jq)
+- [fzf, command-line fuzzy finder](https://github.com/junegunn/fzf)
 - [caddy, Fast, cross-platform HTTP/2 web server with automatic HTTPS](https://github.com/mholt/caddy)
 - [git-ftp, Uses Git to upload only changed files to FTP servers](https://github.com/git-ftp/git-ftp)
 - [git-standup, Recall what you did on the last working day](https://github.com/kamranahmedse/git-standup)
