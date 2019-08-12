@@ -15,6 +15,7 @@
 
 - [About changelog](http://keepachangelog.com)
 - [Semantic versionning](http://semver.org/)
+- [Clean code](https://github.com/jupeter/clean-code-php/blob/master/README.md) php projection
 
 ## Git
 
